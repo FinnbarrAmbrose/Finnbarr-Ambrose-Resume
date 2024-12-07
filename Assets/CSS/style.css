@@ -6,7 +6,18 @@
     background-color: #676767;
 }
 
-
+.ui-menu-color-home {
+background-color: orange;
+}
+.ui-menu-color-resume {
+background-color: teal;
+}
+.ui-menu-color-contact {
+background-color: lightpink;
+}
+.ui-menu-color-download{
+background-color: lightgray;
+}
 
 /*-----------------------------Headers---*/
 header {
