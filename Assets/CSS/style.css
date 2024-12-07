@@ -108,3 +108,8 @@ header {
     font-weight: 300;
     letter-spacing: 2px;
 }
+
+.hvr-sweep-to-top:before {
+    background: rgba(0, 0, 0, 0.2);
+    height: 120px;
+}
