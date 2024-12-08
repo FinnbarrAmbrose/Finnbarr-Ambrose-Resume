@@ -18,6 +18,25 @@ background-color: lightpink;
 .ui-menu-color-download{
 background-color: lightgray;
 }
+/*-----------------------------spechile style for genarale use---*/
+h1, 
+h2, 
+h3, 
+h4 {
+    margin: 0;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.general-sub {
+    font-family: Exo, sans-serif;
+    font-weight: 300;
+    color: #fafafa;
+}
+
+
 
 /*-----------------------------Headers---*/
 header {
@@ -109,7 +128,14 @@ header {
     letter-spacing: 2px;
 }
 
+/*--------------------------------Hover css--*/
 .hvr-sweep-to-top:before {
     background: rgba(0, 0, 0, 0.2);
     height: 120px;
+}
+
+/*-----------------------------Footer---*/
+
+.footer {
+    background-color: 525252;
 }
