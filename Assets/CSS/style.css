@@ -22,7 +22,12 @@ background-color: orange;
 .bg-color-work-history {
     background-color: teal;
 }
-
+.ui-menu-color-interests {
+    background-color: green;
+}
+.ui-menu-color-github {
+    background-color: #525252;
+}
 .ui-menu-color-resume {
 background-color: teal;
 }
@@ -30,7 +35,7 @@ background-color: teal;
 background-color: lightpink;
 }
 .ui-menu-color-download{
-background-color: lightgray;
+background-color: black;
 }
 /*-----------------------------spechile style for genarale use---*/
 h1, 
