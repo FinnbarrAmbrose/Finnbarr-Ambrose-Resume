@@ -15,7 +15,9 @@ background-color: orange;
 .bg-color-contact {
     background-color: #fff;
 }
-
+.bg-color-conferences {
+    background-color: #8f8f8f;
+}
 .bg-color-personal-info {
     background-color: #f2f2f2;
 }
