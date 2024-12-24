@@ -9,6 +9,7 @@ function sendMail(contactForm) {
 .then(
     function(response) {
         console.log("SUSSESS", response)
+        contactForm.reset();
     },
 function(error){
     console.log("FAILED", error);
