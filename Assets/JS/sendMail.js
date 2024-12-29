@@ -1,7 +1,7 @@
 function sendMail(contactForm) {
-    emailjs.send("service_lic63j7","Finnbarr",{
+    emailjs.send("service_c6vrakl","Finnbarr",{
         "from_name": contactForm.name.value,
-        "form_email": contactForm.emailaddress.value,
+        "from_email": contactForm.emailaddress.value,
         "project_request": contactForm.projectsummary.value            
         })
 
